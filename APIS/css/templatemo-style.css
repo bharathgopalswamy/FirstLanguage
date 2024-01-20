@@ -179,7 +179,9 @@ footer {
 .bg-dark {
   background: #161616;
 }
-
+.bg-hash{
+  background: #f1e2d7;
+}
 
 
 /*---------------------------------------
@@ -347,6 +349,12 @@ a:hover, a:active, a:focus {
 #home h1 {
   padding-bottom: 18px;
 }
+#nvidia{
+  background: #f1e2d7;
+  padding-right: 0;
+  padding-left: 0;
+}
+
 
 #home .col-md-6 {
   background: #f1e2d7;
@@ -456,6 +464,7 @@ a:hover, a:active, a:focus {
   color: #633;
   font-weight: bold;
 }
+
 
 /*---------------------------------------
     Education section              
